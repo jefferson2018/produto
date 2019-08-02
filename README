@@ -1,0 +1,6 @@
+Ao subir no servidor a aplicação usar a URL abaixo para ter acesso ao swagger.
+
+http://localhost:8080/swagger-ui.html#
+
+Na classe do ParseCSV alterar os metodos de busca do arquivo para onde vai estar o seu arquivo products.csv
+
